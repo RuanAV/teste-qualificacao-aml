@@ -70,4 +70,4 @@ N (código) - O portador que mais realizou saques foi o R$ RAFAEL FERREIRA COSTA
 
 O (código) - O favorecido que mais recebeu compras realizadas foi o MERCADOPAGO.COM REPRESENTACOES LTDA.  
 
-P - Para desenvolver o código das quesões K a O eu utilizei a linguagem PHP~, versão 8.0.10, divindo as questões em funções que utilizam dos dados do csv que são acessados pela função chamada *getDataCsv*.
+P - Para desenvolver o código das quesões K a O eu utilizei a linguagem PHP, versão 8.0.10, divindo as questões em funções que utilizam dos dados do csv que são acessados pela função chamada *getDataCsv*.
